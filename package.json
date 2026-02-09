@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list-project",
+  "version": "1.0.0",
+  "description": "TO DO APP PROJECT",
+  "license": "ISC",
+  "author": "BDLI GROUP A",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "cli-table3": "^0.6.5",
+    "nodemon": "^3.1.11"
+  }
+}
